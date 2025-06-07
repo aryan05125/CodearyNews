@@ -1,12 +1,51 @@
-# React + Vite
+# 🌟 CodearyNews
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern news web app built with **ReactJS**, **Vite**, and **Tailwind CSS** — designed to deliver trending influencer & tech news with a beautiful UI and responsive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📰 Dynamic News Cards showcasing viral and tech stories  
+- 🌗 Dark / Light Mode toggle for user preference  
+- 📱 Fully Responsive layout (mobile & desktop friendly)  
+- 🎨 Stylish UI with Tailwind CSS utility classes  
+- ⚡ Fast build and hot reload with Vite  
+- 🧩 Modular React components for easy maintenance  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Technology Stack
+
+| Technology  | Purpose                            |
+|-------------|----------------------------------|
+| ⚛️ ReactJS   | Building interactive UI           |
+| ⚡ Vite      | Development build tool for speed  |
+| 🎨 Tailwind | Utility-first CSS framework       |
+| 🌐 Vercel   | Hosting and deployment platform   |
+
+
+---
+
+## 🔗 Live Demo
+Check out the live site here:  
+[https://codeary-news.vercel.app/](https://codeary-news.vercel.app/)
+
+
+
+---
+
+## 👨‍💻 Author
+
+**Aryan Chauhan**  
+[GitHub](https://github.com/aryan05125) | [Portfolio](https://code-aryanics.vercel.app/)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+> "Clean code, beautiful UI, and fast performance — all in one news app."
